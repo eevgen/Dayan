@@ -1,0 +1,15 @@
+open chrome
+close chrome
+decrease computer volume by
+increase
+minus plus division multiply
+billion million thousand hundred
+highest
+mute
+the
+unmute
+turn off monitor
+computer
+reboot
+empty recycle bin in all drives
+zero one two three four five six seven eight nine ten eleven twelve thirteen fourteen fifteen sixteen seventeen eighteen nineteen ten twenty thirty forty fifty sixty seventy eighty ninety
